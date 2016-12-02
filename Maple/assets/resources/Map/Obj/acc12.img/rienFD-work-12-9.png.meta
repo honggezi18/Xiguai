@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "87850d65-2801-44e2-911b-e72863588c9c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "rienFD-work-12-9": {
+      "ver": "1.0.3",
+      "uuid": "394b660b-5cb1-4ff6-a0a9-27e80fb295db",
+      "rawTextureUuid": "87850d65-2801-44e2-911b-e72863588c9c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 168,
+      "height": 80,
+      "rawWidth": 169,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

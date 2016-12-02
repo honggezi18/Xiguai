@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5e090ae1-390d-45d6-a474-198681d25806",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "maple-board-0-0": {
+      "ver": "1.0.3",
+      "uuid": "17bca27c-a711-4957-a02b-a1bc7a221926",
+      "rawTextureUuid": "5e090ae1-390d-45d6-a474-198681d25806",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 164,
+      "rawWidth": 142,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

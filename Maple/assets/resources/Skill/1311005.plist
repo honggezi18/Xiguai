@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>effect-0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{160,160}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{160,160}}</string>
+                <key>sourceSize</key>
+                <string>{160,160}</string>
+            </dict>
+            <key>effect-1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{160,160}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{160,160}}</string>
+                <key>sourceSize</key>
+                <string>{160,160}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>1311005.png</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>BindImage2.4</string>
+            <key>textureFileName</key>
+            <string>1311005.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>00012000-blink-0-head.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{82,0},{1,1}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1,1}}</string>
+                <key>sourceSize</key>
+                <string>{1,1}</string>
+            </dict>
+            <key>00012000-front-ear.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,48},{47,12}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{47,12}}</string>
+                <key>sourceSize</key>
+                <string>{47,12}</string>
+            </dict>
+            <key>00012000-back-ear.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,36},{49,11}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,11}}</string>
+                <key>sourceSize</key>
+                <string>{49,11}</string>
+            </dict>
+            <key>00012000-front-head.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{42,0},{39,35}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{39,35}}</string>
+                <key>sourceSize</key>
+                <string>{39,35}</string>
+            </dict>
+            <key>00012000-back-head.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{41,35}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{41,35}}</string>
+                <key>sourceSize</key>
+                <string>{41,35}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>Head.png</string>
+            <key>size</key>
+            <string>{128,64}</string>
+            <key>smartupdate</key>
+            <string>BindImage2.4</string>
+            <key>textureFileName</key>
+            <string>Head.png</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "852733eb-f986-4748-a707-8b3ae7c215fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "darkmountain2-acc-1-0": {
+      "ver": "1.0.3",
+      "uuid": "9a8525b4-e9c4-4d7e-ac25-a1a1f9d8c39e",
+      "rawTextureUuid": "852733eb-f986-4748-a707-8b3ae7c215fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 39,
+      "height": 81,
+      "rawWidth": 39,
+      "rawHeight": 81,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

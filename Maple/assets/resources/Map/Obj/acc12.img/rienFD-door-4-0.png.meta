@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "94e3ff3d-8dc0-43e9-8a56-f9ccfb2fe9a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "rienFD-door-4-0": {
+      "ver": "1.0.3",
+      "uuid": "c90500db-9ccd-4ff2-a2a5-96af1109e878",
+      "rawTextureUuid": "94e3ff3d-8dc0-43e9-8a56-f9ccfb2fe9a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 154,
+      "height": 174,
+      "rawWidth": 154,
+      "rawHeight": 174,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

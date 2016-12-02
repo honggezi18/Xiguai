@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ebcb95fc-6880-4d1a-802a-851c83c3bc2d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "toyCastle2-gate-5-0": {
+      "ver": "1.0.3",
+      "uuid": "66b7d040-6ecd-426b-a77f-e591d4645ba3",
+      "rawTextureUuid": "ebcb95fc-6880-4d1a-802a-851c83c3bc2d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 300,
+      "height": 288,
+      "rawWidth": 300,
+      "rawHeight": 288,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

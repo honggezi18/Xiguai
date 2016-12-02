@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2ceb7c69-ac9c-4dbc-9d9f-60a9ba3c3147",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "grassySoil-nature-20-1": {
+      "ver": "1.0.3",
+      "uuid": "245d2666-0be2-481b-aca2-d8e011dcb10f",
+      "rawTextureUuid": "2ceb7c69-ac9c-4dbc-9d9f-60a9ba3c3147",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 20,
+      "rawWidth": 30,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

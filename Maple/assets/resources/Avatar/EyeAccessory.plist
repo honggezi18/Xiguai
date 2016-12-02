@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>01022037-default-default.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,46},{32,9}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{32,9}}</string>
+                <key>sourceSize</key>
+                <string>{32,9}</string>
+            </dict>
+            <key>01022017-default-default.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{27,31},{34,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{34,14}}</string>
+                <key>sourceSize</key>
+                <string>{34,14}</string>
+            </dict>
+            <key>01022014-default-default.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{27,16},{34,14}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{34,14}}</string>
+                <key>sourceSize</key>
+                <string>{34,14}</string>
+            </dict>
+            <key>01022042-default-default.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,16},{26,29}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{26,29}}</string>
+                <key>sourceSize</key>
+                <string>{26,29}</string>
+            </dict>
+            <key>01022110-default-default.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{40,15}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{40,15}}</string>
+                <key>sourceSize</key>
+                <string>{40,15}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>EyeAccessory.png</string>
+            <key>size</key>
+            <string>{128,64}</string>
+            <key>smartupdate</key>
+            <string>BindImage2.4</string>
+            <key>textureFileName</key>
+            <string>EyeAccessory.png</string>
+        </dict>
+    </dict>
+</plist>

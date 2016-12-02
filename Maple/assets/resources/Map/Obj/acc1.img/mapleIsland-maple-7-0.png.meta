@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9407a297-9836-4faf-bedd-f8f0fa9d1a99",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mapleIsland-maple-7-0": {
+      "ver": "1.0.3",
+      "uuid": "3a570e88-cc0e-4afd-87cd-9c2d20aa2faf",
+      "rawTextureUuid": "9407a297-9836-4faf-bedd-f8f0fa9d1a99",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 92,
+      "height": 28,
+      "rawWidth": 92,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

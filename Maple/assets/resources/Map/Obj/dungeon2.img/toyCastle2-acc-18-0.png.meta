@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9083bf8a-0ce8-4aa7-a0a3-ff3a17483347",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "toyCastle2-acc-18-0": {
+      "ver": "1.0.3",
+      "uuid": "1cbfad24-013b-4265-af08-41531783f075",
+      "rawTextureUuid": "9083bf8a-0ce8-4aa7-a0a3-ff3a17483347",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 220,
+      "height": 95,
+      "rawWidth": 220,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

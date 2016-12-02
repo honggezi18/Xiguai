@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a0392494-1aff-4046-9c60-df83271a650a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "blueToyCastle": {
+      "ver": "1.0.3",
+      "uuid": "eb586b60-51bc-439b-8557-2c61de190113",
+      "rawTextureUuid": "a0392494-1aff-4046-9c60-df83271a650a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": 68,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 244,
+      "height": 372,
+      "rawWidth": 256,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
